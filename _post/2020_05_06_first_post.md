@@ -3,8 +3,7 @@ title: "Welcome to Jekyll!"
 date: 2017-10-20 08:26:28 -0400
 categories: jekyll update
 ---
-만나서 반갑습니다. 
-윤희의 블로그에 놀러와 주셔서 감사합니다.
+Song's Blog
 ​```python
 def print_hi(name):
   print("hello", name)
